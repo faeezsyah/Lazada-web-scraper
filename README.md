@@ -1,0 +1,1 @@
+Run on conda enviroment for streamlit to work
